@@ -92,6 +92,10 @@ export const kvadratare: Kvadratare[] = [
         img: null, 
     },
     { 
+        name: "Peter Bruinsma",
+        img: null, 
+    },
+    { 
         name: "Christel Jonsson",
         img: christel_jonsson, 
     },
