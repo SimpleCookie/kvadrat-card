@@ -2,7 +2,7 @@ import { Card } from "./Card";
 import { Home } from "./Home";
 import {
   Switch,
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
 } from "react-router-dom";
 
