@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kvadrat-card/static/css/main.27f6e7ff.chunk.css",
-    "main.js": "/kvadrat-card/static/js/main.d49f2d6b.chunk.js",
-    "main.js.map": "/kvadrat-card/static/js/main.d49f2d6b.chunk.js.map",
+    "main.js": "/kvadrat-card/static/js/main.a2a83a1a.chunk.js",
+    "main.js.map": "/kvadrat-card/static/js/main.a2a83a1a.chunk.js.map",
     "runtime-main.js": "/kvadrat-card/static/js/runtime-main.3ddce498.js",
     "runtime-main.js.map": "/kvadrat-card/static/js/runtime-main.3ddce498.js.map",
     "static/js/2.0a133242.chunk.js": "/kvadrat-card/static/js/2.0a133242.chunk.js",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.3ddce498.js",
     "static/js/2.0a133242.chunk.js",
     "static/css/main.27f6e7ff.chunk.css",
-    "static/js/main.d49f2d6b.chunk.js"
+    "static/js/main.a2a83a1a.chunk.js"
   ]
 }
