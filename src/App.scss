@@ -1,3 +1,6 @@
+.root {
+  height: 100vh;
+}
 .background {
   background-color: #282c34;
   min-height: 100vh;
@@ -14,6 +17,7 @@
 .user-list {
   margin: 0;
   font-size: 24px;
+  padding: 40px;
   &-item {
     margin-bottom: 10px;
   }
@@ -30,7 +34,7 @@
 }
 .tillbaka {
   position: absolute;
-  bottom: 20px;
+  bottom: 40px;
   right: 20px;
 }
 a {
