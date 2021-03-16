@@ -9,7 +9,7 @@ import {
 import './App.scss';
 
 export const App = () => (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <Switch>
       <Route exact path="/card/:name" component={Card} />
       <Route exact path="/" component={Home} />
