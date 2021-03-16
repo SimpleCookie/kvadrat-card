@@ -7,7 +7,7 @@ import './App.scss';
 export const Home = () => {
   return (
     <nav className="background">
-      <ul className="user-list">
+      <ol className="user-list">
         {kvadratare.map((it: Kvadratare) => (
           <li key={it.name} className="user-list-item">
             <Link to={`card/${it.name}`}>
@@ -15,7 +15,7 @@ export const Home = () => {
             </Link>
           </li>
         ))}
-      </ul>
+      </ol>
     </nav>
   );
 }

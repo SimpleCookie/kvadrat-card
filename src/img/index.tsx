@@ -80,6 +80,18 @@ export const kvadratare: Kvadratare[] = [
         img: susanne_jonsson, 
     },
     { 
+        name: "Fredrik Dahlén",
+        img: null, 
+    },
+    { 
+        name: "Göran Åkerström",
+        img: null, 
+    },
+    { 
+        name: "Urban Sandström",
+        img: null, 
+    },
+    { 
         name: "Christel Jonsson",
         img: christel_jonsson, 
     },
