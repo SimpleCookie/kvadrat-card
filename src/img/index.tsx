@@ -12,6 +12,7 @@ import per_bernhardsson from "./kvadratare/per_bernhardsson.jpg"
 import reine_palsson from "./kvadratare/reine_palsson.jpg"
 import sara_westin from "./kvadratare/sara_westin.jpg"
 import susanne_jonsson from "./kvadratare/susanne_jonsson.jpg"
+import christel_jonsson from "./kvadratare/christel_jonsson.jpg"
 import lars_markstrom from "./kvadratare/lars_markstrom.jpg"
 import henrik_bylin from "./kvadratare/henrik_bylin.jpg"
 import henric_norlander from "./kvadratare/henric_norlander.jpg"
@@ -77,6 +78,10 @@ export const kvadratare: Kvadratare[] = [
     { 
         name: "Susanne Jonsson",
         img: susanne_jonsson, 
+    },
+    { 
+        name: "Christel Jonsson",
+        img: christel_jonsson, 
     },
     { 
         name: "Lars Markström",
