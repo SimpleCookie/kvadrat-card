@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kvadrat-card/static/css/main.e43ed6f7.chunk.css",
+    "main.css": "/kvadrat-card/static/css/main.b359ac64.chunk.css",
     "main.js": "/kvadrat-card/static/js/main.e6b2829a.chunk.js",
     "main.js.map": "/kvadrat-card/static/js/main.e6b2829a.chunk.js.map",
     "runtime-main.js": "/kvadrat-card/static/js/runtime-main.3ddce498.js",
@@ -10,7 +10,7 @@
     "static/js/3.41ce79d3.chunk.js": "/kvadrat-card/static/js/3.41ce79d3.chunk.js",
     "static/js/3.41ce79d3.chunk.js.map": "/kvadrat-card/static/js/3.41ce79d3.chunk.js.map",
     "index.html": "/kvadrat-card/index.html",
-    "static/css/main.e43ed6f7.chunk.css.map": "/kvadrat-card/static/css/main.e43ed6f7.chunk.css.map",
+    "static/css/main.b359ac64.chunk.css.map": "/kvadrat-card/static/css/main.b359ac64.chunk.css.map",
     "static/js/2.0a133242.chunk.js.LICENSE.txt": "/kvadrat-card/static/js/2.0a133242.chunk.js.LICENSE.txt",
     "static/media/adam_sernheim.66e0a41c.jpg": "/kvadrat-card/static/media/adam_sernheim.66e0a41c.jpg",
     "static/media/andreas_strindin.a5025a25.jpg": "/kvadrat-card/static/media/andreas_strindin.a5025a25.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.3ddce498.js",
     "static/js/2.0a133242.chunk.js",
-    "static/css/main.e43ed6f7.chunk.css",
+    "static/css/main.b359ac64.chunk.css",
     "static/js/main.e6b2829a.chunk.js"
   ]
 }
