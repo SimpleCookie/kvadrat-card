@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kvadrat-card/static/css/main.e43ed6f7.chunk.css",
-    "main.js": "/kvadrat-card/static/js/main.e9366948.chunk.js",
-    "main.js.map": "/kvadrat-card/static/js/main.e9366948.chunk.js.map",
+    "main.js": "/kvadrat-card/static/js/main.e6b2829a.chunk.js",
+    "main.js.map": "/kvadrat-card/static/js/main.e6b2829a.chunk.js.map",
     "runtime-main.js": "/kvadrat-card/static/js/runtime-main.3ddce498.js",
     "runtime-main.js.map": "/kvadrat-card/static/js/runtime-main.3ddce498.js.map",
     "static/js/2.0a133242.chunk.js": "/kvadrat-card/static/js/2.0a133242.chunk.js",
@@ -14,6 +14,7 @@
     "static/js/2.0a133242.chunk.js.LICENSE.txt": "/kvadrat-card/static/js/2.0a133242.chunk.js.LICENSE.txt",
     "static/media/adam_sernheim.66e0a41c.jpg": "/kvadrat-card/static/media/adam_sernheim.66e0a41c.jpg",
     "static/media/andreas_strindin.a5025a25.jpg": "/kvadrat-card/static/media/andreas_strindin.a5025a25.jpg",
+    "static/media/christel_jonsson.b64c4af9.jpg": "/kvadrat-card/static/media/christel_jonsson.b64c4af9.jpg",
     "static/media/goran_akerstrom.cbf1c290.jpg": "/kvadrat-card/static/media/goran_akerstrom.cbf1c290.jpg",
     "static/media/henric_norlander.12c60b1f.jpg": "/kvadrat-card/static/media/henric_norlander.12c60b1f.jpg",
     "static/media/henrik_bylin.2ea90afd.jpg": "/kvadrat-card/static/media/henrik_bylin.2ea90afd.jpg",
@@ -36,6 +37,6 @@
     "static/js/runtime-main.3ddce498.js",
     "static/js/2.0a133242.chunk.js",
     "static/css/main.e43ed6f7.chunk.css",
-    "static/js/main.e9366948.chunk.js"
+    "static/js/main.e6b2829a.chunk.js"
   ]
 }
