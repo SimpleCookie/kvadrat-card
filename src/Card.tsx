@@ -4,6 +4,8 @@ import { kvadratare } from "./img"
 import logotype from "./img/logotype.png"
 
 const placeholder = "https://via.placeholder.com/414"
+const employedLink = "https://www.kvadrat.se/aktuellt/kvadrat-sundsvall-forstarker-med-ny-affarsutvecklare/"
+const consultantLink = "https://www.kvadrat.se/anlita-kvadrat/hitta-konsult/?q=&l=sundsvall#results"
 
 export const Card = () => {
   const urlParams = useParams<{ name: string }>()
@@ -18,10 +20,10 @@ export const Card = () => {
       </div>
       <div className="card">
         <h1>{user.name}</h1>
-        <a href="https://www.kvadrat.se/anlita-kvadrat/hitta-konsult/?q=&l=sundsvall#results">Kvadrat Sundsvall</a>
+        <a href={user.employed ? employedLink : consultantLink}>Kvadrat Sundsvall</a>
       </div>
       <div className="tillbaka">
-      <Link to="/">Tillbaka</Link>
+        <Link to="/">Tillbaka</Link>
       </div>
     </div>
   );

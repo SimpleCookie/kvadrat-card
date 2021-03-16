@@ -21,6 +21,7 @@ import marcus_ekstrom from "./kvadratare/marcus_ekstrom.jpg"
 export interface Kvadratare {
     name: string
     img: any
+    employed?: boolean
 }
 export const kvadratare: Kvadratare[] = [
     { 
@@ -98,10 +99,12 @@ export const kvadratare: Kvadratare[] = [
     { 
         name: "Christel Jonsson",
         img: christel_jonsson, 
+        employed: true,
     },
     { 
         name: "Lars Markström",
         img: lars_markstrom, 
+        employed: true,
     },
     { 
         name: "Henrik Bylin",
