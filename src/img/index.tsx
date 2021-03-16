@@ -24,7 +24,7 @@ export interface Kvadratare {
 }
 export const kvadratare: Kvadratare[] = [
     { 
-        name: "Adam Serinheim",
+        name: "Adam Sernheim",
         img: adam_sernheim, 
     },
     { 
