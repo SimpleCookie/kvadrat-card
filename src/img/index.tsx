@@ -8,6 +8,7 @@ import mats_danielsson from "./kvadratare/mats_danielsson.jpg"
 import michael_wallner from "./kvadratare/michael_wallner.jpg"
 import natalia_molina from "./kvadratare/natalia_molina.jpg"
 import niclas_jonsson from "./kvadratare/niclas_jonsson.jpg"
+import niklas_godin from "./kvadratare/niklas_godin.jpg"
 import per_bernhardsson from "./kvadratare/per_bernhardsson.jpg"
 import reine_palsson from "./kvadratare/reine_palsson.jpg"
 import sara_westin from "./kvadratare/sara_westin.jpg"
@@ -57,12 +58,20 @@ export const kvadratare: Kvadratare[] = [
         img: michael_wallner, 
     },
     { 
+        name: "Mikael Falck",
+        img: null, 
+    },
+    { 
         name: "Natalia Molina",
         img: natalia_molina, 
     },
     { 
         name: "Niclas Jonsson",
         img: niclas_jonsson, 
+    },
+    { 
+        name: "Niklas Godin",
+        img: niklas_godin, 
     },
     { 
         name: "Per Bernhardsson",

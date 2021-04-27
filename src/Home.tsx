@@ -3,6 +3,7 @@ import { Kvadratare } from "./img";
 import { Link } from "react-router-dom";
 
 import './App.scss';
+import { useState } from "react";
 
 export const Home = () => {
   return (
