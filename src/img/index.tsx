@@ -6,6 +6,7 @@ import kent_gran from "./kvadratare/kent_gran.jpg"
 import lars_olov_lundvik from "./kvadratare/lars_olov_lundvik.jpg"
 import mats_danielsson from "./kvadratare/mats_danielsson.jpg"
 import michael_wallner from "./kvadratare/michael_wallner.jpg"
+import mikael_falck from "./kvadratare/mikael_falck.jpg"
 import natalia_molina from "./kvadratare/natalia_molina.jpg"
 import niclas_jonsson from "./kvadratare/niclas_jonsson.jpg"
 import niklas_godin from "./kvadratare/niklas_godin.jpg"
@@ -14,6 +15,7 @@ import reine_palsson from "./kvadratare/reine_palsson.jpg"
 import sara_westin from "./kvadratare/sara_westin.jpg"
 import susanne_jonsson from "./kvadratare/susanne_jonsson.jpg"
 import christel_jonsson from "./kvadratare/christel_jonsson.jpg"
+import urban_sandstrom from "./kvadratare/urban_sandstrom.png"
 import lars_markstrom from "./kvadratare/lars_markstrom.jpg"
 import henrik_bylin from "./kvadratare/henrik_bylin.jpg"
 import henric_norlander from "./kvadratare/henric_norlander.jpg"
@@ -34,7 +36,7 @@ export const kvadratare: Kvadratare[] = [
         img: andreas_strindin, 
     },
     { 
-        name: "Goran Akerstrom",
+        name: "Göran Åkerstrom",
         img: goran_akerstrom, 
     },
     { 
@@ -59,7 +61,7 @@ export const kvadratare: Kvadratare[] = [
     },
     { 
         name: "Mikael Falck",
-        img: null, 
+        img: mikael_falck, 
     },
     { 
         name: "Natalia Molina",
@@ -94,12 +96,8 @@ export const kvadratare: Kvadratare[] = [
         img: null, 
     },
     { 
-        name: "Göran Åkerström",
-        img: null, 
-    },
-    { 
         name: "Urban Sandström",
-        img: null, 
+        img: urban_sandstrom, 
     },
     { 
         name: "Peter Bruinsma",
