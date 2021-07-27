@@ -1,5 +1,4 @@
-import { kvadratare } from "./img"
-import { Kvadratare } from "./img";
+import { kvadratare, Kvadratare } from "./img"
 import { Link } from "react-router-dom";
 
 import './App.scss';
@@ -20,4 +19,3 @@ export const Home = () => {
     </nav>
   );
 }
-
