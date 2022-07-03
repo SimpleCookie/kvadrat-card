@@ -9,7 +9,8 @@ const mapKvadratare = (k: any) => ({
   employed: k.acf.employed,
 })
 
-const cardUrl = "https://kvadrat.devgroup.se/wp-json/acf/v3/kvadratare"
+const cardUrl =
+  "https://kvadrat.devgroup.se/wp-json/acf/v3/kvadratare?per_page=100"
 
 export const useKvadratare = (): [Kvadratare[], boolean, string | null] => {
   const [kvadratare, setKvadratare] = useState<Kvadratare[]>([])
