@@ -2,7 +2,7 @@
   "name": "kvadrat-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SimpleCookie.github.io/kvadrat-card",
+  "homepage": "https://kvadrat-card.devgroup.se/",
   "dependencies": {
     "node-sass": "5.0.0",
     "react": "17.0.1",

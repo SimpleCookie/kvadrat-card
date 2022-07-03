@@ -22,108 +22,109 @@ import henric_norlander from "./kvadratare/henric_norlander.jpg"
 import marcus_ekstrom from "./kvadratare/marcus_ekstrom.jpg"
 
 export interface Kvadratare {
+    id?: number
     name: string
     img: any
     employed?: boolean
 }
 export const kvadratare: Kvadratare[] = [
-    { 
+    {
         name: "Adam Sernheim",
-        img: adam_sernheim, 
+        img: adam_sernheim,
     },
-    { 
+    {
         name: "Andreas Strindin",
-        img: andreas_strindin, 
+        img: andreas_strindin,
     },
-    { 
+    {
         name: "Göran Åkerstrom",
-        img: goran_akerstrom, 
+        img: goran_akerstrom,
     },
-    { 
+    {
         name: "Jan Heder",
-        img: jan_heder, 
+        img: jan_heder,
     },
-    { 
+    {
         name: "Kent Gran",
-        img: kent_gran, 
+        img: kent_gran,
     },
-    { 
+    {
         name: "Lars Olov Lundvik",
-        img: lars_olov_lundvik, 
+        img: lars_olov_lundvik,
     },
-    { 
+    {
         name: "Mats Danielsson",
-        img: mats_danielsson, 
+        img: mats_danielsson,
     },
-    { 
+    {
         name: "Michael Wallner",
-        img: michael_wallner, 
+        img: michael_wallner,
     },
-    { 
+    {
         name: "Mikael Falck",
-        img: mikael_falck, 
+        img: mikael_falck,
     },
-    { 
+    {
         name: "Natalia Molina",
-        img: natalia_molina, 
+        img: natalia_molina,
     },
-    { 
+    {
         name: "Niclas Jonsson",
-        img: niclas_jonsson, 
+        img: niclas_jonsson,
     },
-    { 
+    {
         name: "Niklas Godin",
-        img: niklas_godin, 
+        img: niklas_godin,
     },
-    { 
+    {
         name: "Per Bernhardsson",
-        img: per_bernhardsson, 
+        img: per_bernhardsson,
     },
-    { 
+    {
         name: "Reine Palsson",
-        img: reine_palsson, 
+        img: reine_palsson,
     },
-    { 
+    {
         name: "Sara Westin",
-        img: sara_westin, 
+        img: sara_westin,
     },
-    { 
+    {
         name: "Susanne Jonsson",
-        img: susanne_jonsson, 
+        img: susanne_jonsson,
     },
-    { 
+    {
         name: "Fredrik Dahlén",
-        img: null, 
+        img: null,
     },
-    { 
+    {
         name: "Urban Sandström",
-        img: urban_sandstrom, 
+        img: urban_sandstrom,
     },
-    { 
+    {
         name: "Peter Bruinsma",
-        img: null, 
+        img: null,
     },
-    { 
+    {
         name: "Christel Jonsson",
-        img: christel_jonsson, 
+        img: christel_jonsson,
         employed: true,
     },
-    { 
+    {
         name: "Lars Markström",
-        img: lars_markstrom, 
+        img: lars_markstrom,
         employed: true,
     },
-    { 
+    {
         name: "Henrik Bylin",
-        img: henrik_bylin, 
+        img: henrik_bylin,
     },
-    { 
+    {
         name: "Henric Norlander",
-        img: henric_norlander, 
+        img: henric_norlander,
     },
-    { 
+    {
         name: "Marcus Ekström",
-        img: marcus_ekstrom, 
+        img: marcus_ekstrom,
     },
 
 ]
