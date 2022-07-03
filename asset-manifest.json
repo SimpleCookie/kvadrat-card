@@ -1,45 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.35554761.chunk.css",
-    "main.js": "/static/js/main.ca69628b.chunk.js",
-    "main.js.map": "/static/js/main.ca69628b.chunk.js.map",
+    "main.js": "/static/js/main.da6f7619.chunk.js",
+    "main.js.map": "/static/js/main.da6f7619.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8654a5e.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8654a5e.js.map",
-    "static/js/2.212ef72c.chunk.js": "/static/js/2.212ef72c.chunk.js",
-    "static/js/2.212ef72c.chunk.js.map": "/static/js/2.212ef72c.chunk.js.map",
+    "static/js/2.ef858fe9.chunk.js": "/static/js/2.ef858fe9.chunk.js",
+    "static/js/2.ef858fe9.chunk.js.map": "/static/js/2.ef858fe9.chunk.js.map",
     "static/js/3.c169f515.chunk.js": "/static/js/3.c169f515.chunk.js",
     "static/js/3.c169f515.chunk.js.map": "/static/js/3.c169f515.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.35554761.chunk.css.map": "/static/css/main.35554761.chunk.css.map",
-    "static/js/2.212ef72c.chunk.js.LICENSE.txt": "/static/js/2.212ef72c.chunk.js.LICENSE.txt",
-    "static/media/adam_sernheim.66e0a41c.jpg": "/static/media/adam_sernheim.66e0a41c.jpg",
-    "static/media/andreas_strindin.a5025a25.jpg": "/static/media/andreas_strindin.a5025a25.jpg",
-    "static/media/christel_jonsson.b64c4af9.jpg": "/static/media/christel_jonsson.b64c4af9.jpg",
-    "static/media/goran_akerstrom.cbf1c290.jpg": "/static/media/goran_akerstrom.cbf1c290.jpg",
-    "static/media/henric_norlander.12c60b1f.jpg": "/static/media/henric_norlander.12c60b1f.jpg",
-    "static/media/henrik_bylin.2ea90afd.jpg": "/static/media/henrik_bylin.2ea90afd.jpg",
-    "static/media/jan_heder.7517fa0d.jpg": "/static/media/jan_heder.7517fa0d.jpg",
-    "static/media/kent_gran.32fbb92a.jpg": "/static/media/kent_gran.32fbb92a.jpg",
-    "static/media/lars_markstrom.aea5d8ea.jpg": "/static/media/lars_markstrom.aea5d8ea.jpg",
-    "static/media/lars_olov_lundvik.c97f9d84.jpg": "/static/media/lars_olov_lundvik.c97f9d84.jpg",
-    "static/media/logotype.8e38c9b4.png": "/static/media/logotype.8e38c9b4.png",
-    "static/media/marcus_ekstrom.f307349a.jpg": "/static/media/marcus_ekstrom.f307349a.jpg",
-    "static/media/mats_danielsson.64a4d742.jpg": "/static/media/mats_danielsson.64a4d742.jpg",
-    "static/media/michael_wallner.57bcc4bc.jpg": "/static/media/michael_wallner.57bcc4bc.jpg",
-    "static/media/mikael_falck.a87c2e08.jpg": "/static/media/mikael_falck.a87c2e08.jpg",
-    "static/media/natalia_molina.4c4925f0.jpg": "/static/media/natalia_molina.4c4925f0.jpg",
-    "static/media/niclas_jonsson.6309efc5.jpg": "/static/media/niclas_jonsson.6309efc5.jpg",
-    "static/media/niklas_godin.8e35ef50.jpg": "/static/media/niklas_godin.8e35ef50.jpg",
-    "static/media/per_bernhardsson.82b54d26.jpg": "/static/media/per_bernhardsson.82b54d26.jpg",
-    "static/media/reine_palsson.9ff2bb25.jpg": "/static/media/reine_palsson.9ff2bb25.jpg",
-    "static/media/sara_westin.6288b972.jpg": "/static/media/sara_westin.6288b972.jpg",
-    "static/media/susanne_jonsson.35e3a0fb.jpg": "/static/media/susanne_jonsson.35e3a0fb.jpg",
-    "static/media/urban_sandstrom.7ca97ad1.png": "/static/media/urban_sandstrom.7ca97ad1.png"
+    "static/js/2.ef858fe9.chunk.js.LICENSE.txt": "/static/js/2.ef858fe9.chunk.js.LICENSE.txt",
+    "static/media/logotype.8e38c9b4.png": "/static/media/logotype.8e38c9b4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8654a5e.js",
-    "static/js/2.212ef72c.chunk.js",
+    "static/js/2.ef858fe9.chunk.js",
     "static/css/main.35554761.chunk.css",
-    "static/js/main.ca69628b.chunk.js"
+    "static/js/main.da6f7619.chunk.js"
   ]
 }
